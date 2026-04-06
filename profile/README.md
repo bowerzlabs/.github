@@ -2,28 +2,17 @@
 
 Building the connective tissue of the modern digital era.  
 
-**High-performance software | Embedded systems | AI-ready telemetry**
+**High-performance software | Embedded systems**
 
----
+## Featured Projects
 
-## 🛠 Technology Stack
-
-- **JVM Ecosystem:** Java, Kotlin 
-- **Systems Engineering:** C++20 & Rust for performance-critical modules  
-- **Frontend:** Svelte-driven, dark-mode internal tools & SPAs  
-
----
-
-## 📦 Featured Projects
-
-### 🛸 KraftAdmin
+### KraftAdmin
 Jvm-frameworks agnostic Admin Library.  
 Auto-generates reactive dashboards from your domain models.
 
-- **Status:** Beta (v0.1.x)  
-- **Tech:** Kotlin, Svelte  
+- **Status:** Beta (v0.1.0)  
 
-### ⚡ Hacksurge
+### Hacksurge
 Event management & digital credentialing platform.
 
 - **Status:** Active Development  
@@ -36,8 +25,8 @@ Ensures integrity without financial friction.
 
 ---
 
-## 🤝 Contact
+## Contact
 
-- **Location:** Nairobi, Kenya 🇰🇪  
+- **Location:** Nairobi, Kenya 
 - **Email:** hello@bowerzlabs.com  
 - **Twitter:** [@BowerzLabs](https://twitter.com/BowerzLabs)
