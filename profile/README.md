@@ -10,7 +10,7 @@ Building the connective tissue of the modern digital era.
 Jvm-frameworks agnostic Admin Library.  
 Auto-generates reactive dashboards from your domain models.
 
-- **Status:** Beta (v0.1.0)  
+- **Status:** Beta (v0.1.14-beta)  
 
 ### Hacksurge
 Event management & digital credentialing platform.
