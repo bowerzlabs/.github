@@ -15,7 +15,7 @@ Event management & digital credentialing platform.
 
 - **Status:** Active Development  
 
-### 🔄 Evry (ReviewHub)
+### Evry (ReviewHub)
 Verified-feedback loop for service providers.  
 Ensures integrity without financial friction.
 
