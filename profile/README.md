@@ -1,7 +1,5 @@
 # BowerzLabs
 
-Building the connective tissue of the modern digital era.  
-
 **High-performance software | Embedded systems**
 
 ## Featured Projects
